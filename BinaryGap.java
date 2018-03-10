@@ -1,4 +1,4 @@
-
+// counts the number of gaps in binary number 1001 --> 1 gap 1001001 --> 2 gaps
 public class BinaryGap{
 	public static void main (String [] args){
 		int num=529;
